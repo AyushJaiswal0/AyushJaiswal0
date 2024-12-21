@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushJaiswal
 - 👀 I’m interested in Coding, Maths, Technical aspects and Chess
-- 🌱 I’m currently learning Web Dev
+- 🌱 I’m currently learning Web Dev and ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/him
