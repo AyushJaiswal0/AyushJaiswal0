@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AyushJaiswal
 - 👀 I’m interested in Coding, Maths, Technical aspects and Chess
-- 🌱 I’m currently learning Web Dev and ML
+- 🌱 I’m currently learning Embedded systems and VLSI concepts
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me jaiswalayush2318@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
